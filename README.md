@@ -46,8 +46,6 @@ python text_to_speech.py
 You can further customize the application as per your needs. For example:
 
 - Modify the voice settings such as voice type and rate.
-- Implement a GUI for a more user-friendly interface using libraries like tkinter.
-- Save the generated speech as an audio file.
 
 ## License
 
