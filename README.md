@@ -6,7 +6,7 @@ This is a simple Text-to-Speech (TTS) application developed using Python and the
 
 ## Requirements
 
-- Python 3.x
+- Python 3 or higher
 - pyttsx3 library
 
 ## Installation
